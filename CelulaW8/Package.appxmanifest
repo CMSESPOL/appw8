@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="a6f34f02-599a-446d-90f5-7a0e4e3d5329" Publisher="CN=Mayra" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>CelulaW8</DisplayName>
+    <PublisherDisplayName>Mayra</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="CelulaW8.App">
+      <VisualElements DisplayName="Celula Estudiantil Microsoft ESPOL" Logo="Assets\logo_microsoft.150.png" SmallLogo="Assets\SmallLogo.png" Description="Aplicacion que presenta la informacion basica de Celual Estudiantil Microsoft ESPOL" ForegroundText="light" BackgroundColor="white" ToastCapable="true">
+        <DefaultTile ShowName="allLogos" ShortName="Celula Microsoft ESPOL" WideLogo="Assets\Wide310x150Logo.png" />
+        <SplashScreen Image="Assets\logo_celula.png" BackgroundColor="skyBlue" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,1 +1,1 @@
-E:\Celula TFS\CelulaW8\ProyectoAppCelulaW8\CelulaW8\CelulaW8.csproj;neutral
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\CelulaW8.csproj;neutral

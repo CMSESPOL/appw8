@@ -31,6 +31,7 @@
     </common:LayoutAwarePage.Background>
 
     <!--
+    free
         Esta cuadrícula actúa como panel raíz de la página que define dos filas:
         * La fila 0 contiene el botón Atrás y el título de página
         * La fila 1 contiene el resto del diseño de página

@@ -35,3 +35,40 @@ E:\Celula TFS\CelulaW8\ProyectoAppCelulaW8\CelulaW8\obj\Debug\qualifiers.txt
 E:\Celula TFS\CelulaW8\ProyectoAppCelulaW8\CelulaW8\obj\Debug\qualifiers.txt.intermediate
 E:\Celula TFS\CelulaW8\ProyectoAppCelulaW8\CelulaW8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 E:\Celula TFS\CelulaW8\ProyectoAppCelulaW8\CelulaW8\obj\Debug\ProjectArchitectures.txt
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\CelulaW8.exe
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\CelulaW8.pdb
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\CelulaW8.exe.CodeAnalysisLog.xml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\CelulaW8.exe.lastcodeanalysissucceeded
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\resources.pri
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\AppxManifest.xml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\bin\Debug\CelulaW8.build.appxrecipe
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\App.g.i.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\App.g.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\GroupDetailPage.g.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\ItemDetailPage.g.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\App.xaml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\Common\StandardStyles.xaml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\GroupedItemsPage.xaml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\GroupDetailPage.xaml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\ItemDetailPage.xaml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\CelulaW8.exe
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\CelulaW8.pdb
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\priconfig.xml
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\priconfig.xml.intermediate
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\layout.resfiles
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\layout.resfiles.intermediate
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\resources.resfiles
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\resources.resfiles.intermediate
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\pri.resfiles
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\pri.resfiles.intermediate
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\qualifiers.txt
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\qualifiers.txt.intermediate
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\parivera\Documents\GitHub\appw8\CelulaW8\obj\Debug\ProjectArchitectures.txt
